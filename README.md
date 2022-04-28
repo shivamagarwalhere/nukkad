@@ -1,2 +1,3 @@
 # nukkad
 An Online Shopping program based on Local Businesses using Python and MySQL.
+One of the major businesses of the day is Online Shopping. It is dominated by large-scale manufacturers who can scale down price drastically, thus resulting in crushing of Small Businesses. Nukkad aims to eliminate these disparities. It is a conglomeration of supporting small businesses while keeping pace with the current trends. It provides a platform to local shops to register and expand their business. It showcases nearby shops, lists their products, lets customer to go out buy for themselves and to order while sitting at the comfort of their couch. It gives more power to sellers, statistical analysis by graphs and features such as projections of future..
