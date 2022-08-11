@@ -11,7 +11,7 @@ def adm_menu(): #administrator menu
     print("The following tasks can be done: \n 1. Inject CSV files into MySQL")
     adq=int(input("Enter choice:"))
     if adq!=1:
-        print("Invalid Entry")
+        print("Invalid Entryyyyyyy")
     else:
         filename=input("Enter CSV file Name:")
         import pymysql
